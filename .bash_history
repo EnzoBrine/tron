@@ -32,3 +32,23 @@ git push
 git fetch origin master
 git push origin master
 git clone https://github.com/EnzoBrine/tron.git
+termux-setup-storage
+pkg install get
+pkg install wget
+pkg install ffmpeg
+pkg install nodejs
+cd †ᖇØη
+pkg install npm
+get clone https://github.com/EnzoBrine/tron.git
+git clone https://github.com/EnzoBrine/tron.git
+bast install.sh
+git clone https://github.com/EnzoBrine/tron.git
+npm
+bast.sh
+basht.sh
+basth.sh
+git clone https://github.com/EnzoBrine/tron.git
+cancel
+pkg install cups
+pkg install coreutils
+termux-setup-storage
